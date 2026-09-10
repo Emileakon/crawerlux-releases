@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
+  "version": "1.7.0",
   "date": "2026-09-10",
-  "notes": "Settings layout polish and the default email sign-off removed — the Outlook draft carries your own signature.",
-  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.6.1/Crawerlux-Setup-1.6.1.exe"
+  "notes": "Per-selection mounting height: give any lamp or row its own height via the z field in the plan toolbar; drags keep individual heights.",
+  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.0/Crawerlux-Setup-1.7.0.exe"
 }
