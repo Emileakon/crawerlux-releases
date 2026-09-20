@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "date": "2026-09-20",
-  "notes": "In-app updates (OTA): download with progress bar and one-click Restart & update — this is the last version you install by hand. Plus a signed feedback log on the Notes tab: every note carries the agent's name and time.",
-  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.2/Crawerlux-Setup-1.7.2.exe"
+  "notes": "Number-input fix: every numeric field accepts comma or point decimals (3,5 = 3.5), never resets while typing, and prices like 0,30 work. On 1.7.2 this update installs in-app via Settings → Check for updates.",
+  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.3/Crawerlux-Setup-1.7.3.exe"
 }
