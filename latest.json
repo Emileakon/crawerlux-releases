@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "date": "2026-09-10",
-  "notes": "Per-selection mounting height: give any lamp or row its own height via the z field in the plan toolbar; drags keep individual heights.",
-  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.0/Crawerlux-Setup-1.7.0.exe"
+  "version": "1.7.1",
+  "date": "2026-09-20",
+  "notes": "Team space: the whole team shares one plan library through a OneDrive folder (teams PL/DE/FR/NL/DK). Plus: tray icon + start with Windows, customer follow-up reminders, plan status workflow with feedback notes, alternatives as full editable designs, nameable doors, wall A/B markers, auto-align, selection fixes.",
+  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.1/Crawerlux-Setup-1.7.1.exe"
 }
