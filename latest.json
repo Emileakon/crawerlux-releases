@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "date": "2026-09-20",
-  "notes": "Number-input fix: every numeric field accepts comma or point decimals (3,5 = 3.5), never resets while typing, and prices like 0,30 work. On 1.7.2 this update installs in-app via Settings → Check for updates.",
-  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.3/Crawerlux-Setup-1.7.3.exe"
+  "version": "1.7.4",
+  "date": "2026-10-08",
+  "notes": "Crawerlux is now AgriLumo. Native report PDF (fixes the Outlook/PDF error on German reports), Plans search & filters with 9 per page, an Accessories & outdoor catalog on the quote, safer plan storage with daily backups, and a full security & integrity audit.",
+  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.4/AgriLumo-Setup-1.7.4.exe"
 }
