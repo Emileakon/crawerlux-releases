@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "date": "2026-10-08",
-  "notes": "Follow-up count on the taskbar icon, Align that evens out the whole room, X/Y rulers on the plan, and maintenance factor + heavy machines moved to Settings.",
-  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.5/AgriLumo-Setup-1.7.5.exe"
+  "version": "1.7.6",
+  "date": "2026-10-17",
+  "notes": "No more frozen designer in big halls (calculations run in the background), AgriLumo's own confirm boxes, F5 reload, and product names in emails linked to the customer's webshop.",
+  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.6/AgriLumo-Setup-1.7.6.exe"
 }
