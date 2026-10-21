@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "date": "2026-10-17",
-  "notes": "No more frozen designer in big halls (calculations run in the background), AgriLumo's own confirm boxes, F5 reload, and product names in emails linked to the customer's webshop.",
-  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.7.6/AgriLumo-Setup-1.7.6.exe"
+  "version": "1.8.0",
+  "date": "2026-10-21",
+  "notes": "Team space on the AgriLumo server: plans sync within seconds from anywhere, each member sees only their own team(s), and one person edits a plan at a time (Request to edit). Ask your administrator for a device code, then Settings → Team space → Connect.",
+  "downloadUrl": "https://github.com/Emileakon/crawerlux-releases/releases/download/v1.8.0/AgriLumo-Setup-1.8.0.exe"
 }
